@@ -4,6 +4,7 @@
 
     <div class="header">
       <img src="./assets/res.png" alt="Logo">
+      //logo creado por Gerardo Bautista
 
       <h1> !Viaja en familia¡ </h1>
       <nav>

@@ -107,7 +107,8 @@ methods: {
         justify-content: center;
         align-items: center;
         background: linear-gradient(to bottom , #0230fc, white);
-        background-image: url("../assets/hotel-room-1217627.jpg");
+        background-image: url("../assets/hotel-room-1217627.jpg"); 
+        /*imagen libre de uso fuente https://www.freeimages.com/photo/hotel-room-1217627*/
         background-size: 100%;
         background-position: 0%;
         

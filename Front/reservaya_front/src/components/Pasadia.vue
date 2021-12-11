@@ -103,6 +103,7 @@ methods: {
         justify-content: center;
         align-items: center;
         background-image: url("../assets/pool-in-paradise-1363196.jpg");
+        /* imagen libre de uso fuente https://www.freeimages.com/photo/pool-in-paradise-1363196 */
         background-size: 100%;
         background-position: 0%;
         
